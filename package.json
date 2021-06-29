@@ -12,7 +12,7 @@
     "core-js": "^3.6.5",
     "echarts": "^5.1.2",
     "element-plus": "^1.0.2-beta.48",
-    "jquery": "^2.2.4",
+    "jquery": "^3.5.0",
     "lib-flexible": "^0.3.2",
     "signalr": "^2.3.0",
     "vue": "^3.0.11",
